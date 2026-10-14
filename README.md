@@ -62,10 +62,19 @@ Uno de los principales aprendizajes fue la importancia de presentar los resultad
 
 ## Evidencias del proyecto
 
-A continuación se presentarán algunas de las principales vistas desarrolladas en Power BI para comunicar los resultados del análisis.
+A continuación se presentan algunas de las principales vistas desarrolladas en Power BI para comunicar los resultados del análisis.
 
-Las evidencias visuales del dashboard se agregarán a este repositorio.
+### Resumen ejecutivo
 
+Vista general del desempeño comercial de Andes Retail Group durante 2024–2025, incluyendo indicadores de ingresos, ganancia, margen y pedidos, así como comparaciones por país y segmento de clientes.
+
+![Resumen ejecutivo de Andes Retail](andes_retail_overview.png)
+
+### Análisis detallado
+
+Vista de análisis por periodo, país, categoría de producto y segmento de cliente, diseñada para profundizar en los resultados comerciales mediante filtros y visualizaciones interactivas.
+
+![Análisis detallado de Andes Retail](andes_retail_detalle.png)
 ## Autora
 
 **Denisse Ungson**  
